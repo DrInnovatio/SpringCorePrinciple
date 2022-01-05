@@ -1,11 +1,10 @@
-package hello.core.AutowiredTest;
+package hello.core.Autowired;
 
 import hello.core.member.Member;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.lang.Nullable;
-import org.springframework.test.context.support.AnnotationConfigContextLoader;
 import org.testng.annotations.Test;
 
 import java.util.Optional;
