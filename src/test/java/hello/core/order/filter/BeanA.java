@@ -1,4 +1,4 @@
-package hello.core.scan.filter;
+package hello.core.order.filter;
 
 @MyIncludeComponent
 public class BeanA {
